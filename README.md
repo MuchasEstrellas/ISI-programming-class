@@ -5,7 +5,7 @@
 ## Schedule
 | Week | Days | Story (20min) | Programming (100min) | Target Project | Resources |
 | --- | --- | --- | --- | --- | --- |
-| 1 | TBA | *Why do we have to learn programming?* | HTML | Chrome Extension | [Example](https://chrome.google.com/webstore/detail/momentum/) |
+| 1 | TBA | *Why do we have to learn programming?* | HTML | Chrome Extension | [Example](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) |
 | 2 | TBA | *How is it working at a startup?* | HTML, CSS | Chrome Extension | TBA |
 | 3 | TBA | *How to fill out your CV with a job* | CSS, Javascript | Chrome Extension | TBA |
 | 4 | TBA | *Women in tech* | Javascript, jQuery | Chrome Extension | TBA |
