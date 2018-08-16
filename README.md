@@ -7,7 +7,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 | TBA | *Why do we have to learn programming?* | HTML | Chrome Extension | [Example](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) |
 | 2 | TBA | *How is it working at a startup?* | HTML, CSS | Chrome Extension | TBA |
-| 3 | TBA | *How to fill out your CV with a job* | CSS, Javascript | Chrome Extension | TBA |
+| 3 | TBA | *How to fill out your CV without a job* | CSS, Javascript | Chrome Extension | TBA |
 | 4 | TBA | *Women in tech* | Javascript, jQuery | Chrome Extension | TBA |
 | 5 | TBA | *Machine-learning is a racist* | Basic Python | Titanic Survival Classifier | [Example](https://www.kaggle.com/c/titanic) |
 | 6 | TBA | *Introducing deep learning* | Python Numpy, Matplotlib | Titanic Survival Classifier | TBA |
