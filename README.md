@@ -3,7 +3,7 @@
 ## Class information
   * More information will follow soon.
 ## Schedule
-| Week | Days | Story (20min) | Programming (100min) | Target Project | Type | Resources |
+| Week | Days | Story (20 min.) | Programming (100 min.) | Target Project | Type | Resources |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | TBA | *Why do we have to learn programming?* | HTML | Chrome Extension | Front End |[Example](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) |
 | 2 | TBA | *How is it working at a startup?* | HTML, CSS | Chrome Extension | Front End |TBA |
