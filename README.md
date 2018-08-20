@@ -8,7 +8,7 @@
   * Please, bring your own laptop.
   * The class will be held in English.
   * The slide will be shared every Monday.
-  * All the notice will be posted on the [ISI facebook group](https://www.facebook.com/groups/305271870223586/)
+  * All the notices will be posted on the [ISI facebook group](https://www.facebook.com/groups/305271870223586/)
   
 ## Schedule
 | Week | Days(Mon, Tue) | Story (20 min.) | Programming (100 min.) | Target Project | Type | Resources |
