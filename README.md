@@ -2,6 +2,7 @@
 
 ## Class information
   * **Monday 18:00 - 20:00** / **Tuesday 16:00 - 18:00** (choose one)
+    * You can choose either Monday or Tuesday, the content will be the same for both days in the same week.
   * The schedule can be changed.
   * The location will be announced soon.
   * 20 minutes IT story + 100 minutes programming
