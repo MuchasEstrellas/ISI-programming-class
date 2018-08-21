@@ -1,5 +1,9 @@
 # ISI programming class
-
+## Course coverage
+  * Basic web development(client-side) : HTML, CSS, Javascript, jQuery
+  * Basic data science : Python, Machine learning
+  * Basic web development(server-side) : AWS, Python, Flask, MySQL
+  
 ## Class information
   * **Monday 18:00 - 20:00** / **Tuesday 16:00 - 18:00** (choose one)
     * You can choose either Monday or Tuesday, the content will be the same for both days in the same week.
