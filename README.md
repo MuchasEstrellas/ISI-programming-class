@@ -14,7 +14,7 @@
 ## Schedule
 | Week | Days(Mon, Tue) | Story (20 min.) | Programming (100 min.) | Target Project | Resources | Preparation |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 03.09, 04.09 | *Why do we have to learn programming?* | HTML | Chrome Extension |[Example](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) | TBA |
+| 1 | 03.09, 04.09 | *Why do we have to learn programming?* | HTML | Chrome Extension |[Example](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) | [HTML](https://www.codecademy.com/learn/learn-html),[CSS](https://www.codecademy.com/learn/learn-css),[Javascript](https://www.codecademy.com/learn/introduction-to-javascript) |
 | 2 | 10.09, 11.09 | *How is it working at a startup?* | HTML, CSS | Chrome Extension | TBA | TBA |
 | 3 | 17.09, 18.09 | *How to fill out your CV without a job* | CSS, Javascript | Chrome Extension | TBA | TBA |
 | 4 | 24.09, 25.09 | *Women in tech* | Javascript, jQuery | Chrome Extension |TBA | TBA |
