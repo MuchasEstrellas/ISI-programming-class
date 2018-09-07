@@ -1,5 +1,5 @@
 # ISI programming class
-## Course coverage
+## Course coverage : [Diagram](https://goo.gl/WDnqR6)
   * Basic web development(client-side) : HTML, CSS, Javascript, jQuery
   * Basic data science : Python, Machine learning
   * Basic web development(server-side) : AWS, Python, Flask, MySQL
