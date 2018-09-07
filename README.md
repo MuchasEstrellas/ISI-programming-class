@@ -21,7 +21,7 @@
   * All the notices will be posted on the [ISI Progarmming Class facebook group](https://www.facebook.com/groups/305271870223586/)
 
 ## Schedule
-| Week | Days(Mon, Tue) | Story (20 min.) | Programming (100 min.) | Preparation |
+| Week | Days(Mon, Tue) | Story (10 min.) | Programming (100 min.) | Preparation |
 | --- | --- | --- | --- | --- |
 | 1 | 03.09, 04.09 | *Why do we have to learn programming?* | [HTML](https://speakerdeck.com/codethief/isi-programming-course-01-html) | [HTML](https://www.codecademy.com/learn/learn-html)  |
 | 2 | 10.09, 11.09 | *How to build your resume without having a job* | HTML, CSS | [CSS](https://www.codecademy.com/learn/learn-css) |
