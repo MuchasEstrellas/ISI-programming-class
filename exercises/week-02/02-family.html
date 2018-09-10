@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is Jungwon's homepage</title>
+  </head>
+  <style>
+  body div {
+    padding:30px;
+    background-color: purple;
+  }
+  body > div > div {
+    background-color: green;
+  }
+  body > div > div + div{
+    background-color: blue;
+  }
+  body > div > div > div{
+    background-color: red;
+  }
+  p ~ div{
+    border: 3px solid yellow;
+  }
+  li:first-child{
+    color:white;
+  }
+  li:last-child{
+    color:blue;
+  }
+  li:nth-child(2){
+    color:red;
+  }
+  li:nth-child(odd){
+    font-size:40px;
+  }
+  </style>
+  <body>
+    <div>
+      <div>
+      </div>
+      <div>
+        <div>
+        </div>
+      </div>
+    </div>
+    <p>From here box will have a border</p>
+    <div>
+      <ul>
+        <li>First</li>
+        <li>Second</li>
+        <li>Third</li>
+      </ul>
+    </div>
+
+
+  </body>
+</html>
