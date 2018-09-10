@@ -24,7 +24,7 @@
 | Week | Days(Mon, Tue) | Story (10 min.) | Programming (100 min.) | Preparation |
 | --- | --- | --- | --- | --- |
 | 1 | 03.09, 04.09 | *Why do we have to learn programming?* | [HTML](https://speakerdeck.com/codethief/isi-programming-course-01-html) | [HTML](https://www.codecademy.com/learn/learn-html)  |
-| 2 | 10.09, 11.09 | *How to build your resume without having a job* | HTML, CSS | [CSS](https://www.codecademy.com/learn/learn-css) |
+| 2 | 10.09, 11.09 | *How to build your resume without having a job* | [HTML, CSS](https://speakerdeck.com/codethief/isi-programming-course-02-css) | [CSS](https://www.codecademy.com/learn/learn-css) |
 | 3 | 24.09, 25.09 | *How is it working at a startup?* | CSS, Javascript | [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) |
 | 4 | TBA | *Women in tech* | Javascript, jQuery |  TBA |
 | 5 | TBA | *Machine-learning is a racist* | Basic Python | TBA |
