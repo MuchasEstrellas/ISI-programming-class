@@ -25,13 +25,12 @@
 | --- | --- | --- | --- | --- |
 | 1 | 03.09, 04.09 | *Why do we have to learn programming?* | [HTML](https://speakerdeck.com/codethief/isi-programming-course-01-html) | [HTML](https://www.codecademy.com/learn/learn-html)  |
 | 2 | 10.09, 11.09 | *How to build your resume without having a job* | [HTML, CSS](https://speakerdeck.com/codethief/isi-programming-course-02-css) | [CSS](https://www.codecademy.com/learn/learn-css) |
-| 3 | 24.09, 25.09 | *How is it working at a startup?* | CSS, Javascript | [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) |
-| 4 | TBA | *Women in tech* | Javascript, jQuery |  TBA |
-| 5 | TBA | *Machine-learning is a racist* | Basic Python | TBA |
-| 6 | TBA | *Introducing deep learning* | Python Numpy, Matplotlib | TBA |
-| 7 | TBA | TBA | Python Pandas | TBA |
-| 8 | TBA | TBA | Python Sklearn | TBA |
-| 9 | TBA | TBA | AWS Basic, Python Flask | TBA |
-| 10 | TBA | TBA | Python Flask, Database(MySql) | TBA |
-| 11 | TBA | TBA | MySQL Advanced Query | TBA |
-| 12 | TBA | TBA | TBA | TBA |
+| 3 | 24.09, 25.09 | *How is it working at a startup?* | Javascript, jQuery | [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) |
+| 4 | TBA | Introduction to data science | Basic Python | [python](https://www.codecademy.com/learn/learn-python) |
+| 5 | TBA | TBA | Python Numpy, Matplotlib | TBA |
+| 6 | TBA | TBA | Python Pandas | TBA |
+| 7 | TBA | TBA | Python Sklearn | TBA |
+| 8 | TBA | TBA | AWS Basic, Python Flask | TBA |
+| 9 | TBA | TBA | Python Flask, Database(MySql) | TBA |
+| 10 | TBA | TBA | MySQL Advanced Query | TBA |
+| 11 | TBA | TBA | TBA | TBA |
