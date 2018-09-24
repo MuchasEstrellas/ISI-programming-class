@@ -25,7 +25,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | 03.09, 04.09 | *Why do we have to learn programming?* | [HTML](https://speakerdeck.com/codethief/isi-programming-course-01-html) | [HTML](https://www.codecademy.com/learn/learn-html)  |
 | 2 | 10.09, 11.09 | *How to build your resume without having a job* | [HTML, CSS](https://speakerdeck.com/codethief/isi-programming-course-02-css) | [CSS](https://www.codecademy.com/learn/learn-css) |
-| 3 | 24.09, 25.09 | *How is it working at a startup?* | Javascript, jQuery | [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) |
+| 3 | 24.09, 25.09 | *How is it working at a startup?* | [Javascript, jQuery](https://speakerdeck.com/codethief/isi-programming-course-03-javascript) | [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) |
 | 4 | 01.10, 02.10 | *Introduction to data science* | Basic Python | [Python](https://www.codecademy.com/learn/learn-python) |
 | 5 | TBA | TBA | Python Numpy, Matplotlib | TBA |
 | 6 | TBA | TBA | Python Pandas | TBA |
