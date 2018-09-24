@@ -1,0 +1,10 @@
+{
+   "name": "myChromeTab",
+   "version": "1.0",
+   "description": "",
+   "permissions": ["storage"],
+   "chrome_url_overrides" : {
+      "newtab": "index.html"
+    },
+   "manifest_version": 2
+ }

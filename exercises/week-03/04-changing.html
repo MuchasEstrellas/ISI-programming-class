@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is Jungwon's homepage</title>
+    <style>
+    div{
+        width:100px;
+        height:100px;
+        background-color:black;
+        color:white;
+    }
+    </style>
+  </head>
+  <body>
+
+    <div id="btn1">Button 1</div>
+    <div id="btn2">Button 2</div>
+    <div id="btn3">Button 3</div>
+    <script>
+    document.getElementById("btn1").addEventListener("click", function(){
+      this.style.color = "blue";
+      this.style.background = "red";
+    });
+    document.getElementById("btn2").addEventListener("click", function(){
+      this.style.width = "300px";
+      this.style.height = "300px";
+    });
+    document.getElementById("btn3").addEventListener("dblclick", function(){
+      this.innerHTML="<img src='https://source.unsplash.com/random'/>";
+
+    });
+
+    </script>
+  </body>
+</html>

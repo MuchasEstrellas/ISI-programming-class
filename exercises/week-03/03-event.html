@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is Jungwon's homepage</title>
+    <style>
+      div{
+          width:100px;
+          height:100px;
+          background-color:black;
+          color:white;
+      }
+    </style>
+  </head>
+  <body onload="alert(1);">
+    <div onclick="alert(2);">It will show 2</div>
+
+
+    <input type="text" onchange="console.log(this.value);"/>
+    <form onsubmit="alert('not yet.');return false;">
+      <input type="submit" />
+    </form>
+  </body>
+</html>

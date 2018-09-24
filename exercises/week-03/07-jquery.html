@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is Jungwon's homepage</title>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.js"
+      integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+      crossorigin="anonymous"></script>
+      <style>
+      div{
+        height:200px;
+        width:200px;
+        background-color: black;
+        color:white;
+        text-align: center;
+      }
+      </style>
+  </head>
+  <body>
+    <div id="btn1">Button 1</div>
+    <div id="btn2">Button 2</div>
+    <div id="btn3">Button 3</div>
+    <script>
+      $('#btn1').mouseover(function(){
+        $(this).css('background-color','red');
+        $(this).css('color','blue');
+      });
+      $('#btn1').mouseout(function(){
+        $(this).css('background-color','black');
+        $(this).css('color','white');
+      });
+      $('#btn2').click(function(){
+        $(this).width(300);
+        $(this).height(300);
+      });
+      $('#btn3').dblclick(function(){
+        $(this).html("<img src='https://source.unsplash.com/random'/>");
+      });
+
+    </script>
+  </body>
+</html>

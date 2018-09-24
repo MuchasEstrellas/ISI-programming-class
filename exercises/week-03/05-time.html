@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is Jungwon's homepage</title>
+
+  </head>
+  <body>
+    <h1 id="timer"></h1>
+    <script>
+      setTimeout(function(){
+        alert("After 2 second");
+      },2000);
+
+
+      setInterval(function(){
+        var now = new Date();
+        document.getElementById("timer").innerHTML=now;
+      },2000);
+
+
+    </script>
+  </body>
+</html>

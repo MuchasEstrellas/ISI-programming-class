@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is Jungwon's homepage</title>
+  </head>
+  <body>
+    <script>
+      //part1 operations
+      var x=1;
+      var y=3;
+      console.log(x+y);
+      console.log(x-y);
+      console.log(x*y);
+      console.log(x/y);
+      //part2 types
+      var a = 0.1;
+      var b = true;
+      var c = "hello";
+      console.log(a+b);
+      console.log(a+c);
+      console.log(c.length);
+      c=c.replace("l","t");
+      console.log(c);
+      var d = [0.1, true, "hello"];
+      console.log(d);
+
+      //part3
+      if(d.length>0){
+        d.pop();
+        console.log(d);
+      }else{
+        console.log("It's empty");
+      }
+      for(var i=0; i < d.length; i++){
+        console.log(typeof d[i]);
+      }
+
+      function sqrt(n){
+        return n*n;
+      }
+      console.log(sqrt(3));
+
+    </script>
+  </body>
+</html>
