@@ -1,5 +1,6 @@
 # 04-Week Assignment
   * Two Jupyter Notebook files are provided.
+  * Write your own code on TODO part.
 ## Keywords to google
   * Sort dictionary, list in Python
   * Radian is weird in Python
