@@ -10,7 +10,7 @@
 ## Resources
   * [Python Basic](python-basic.ipynb)
   * [Python Practical](python-practical.ipynb)
-      * [Sample PDF file](sample-pdf.pdf)
+      * [Sample PDF file](sample_pdf.pdf)
 
 ## Screen-shot
   ![screenshot](sample-image-1.png)
