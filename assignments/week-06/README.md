@@ -8,6 +8,7 @@
   * Make a model with training data
   * Find the most accurate classifier or preprocessing approach
   * Predict the output using test data
+  * Submit your data to [Kaggle](https://www.kaggle.com/c/titanic/leaderboard)
 
 ## Resources
   * [titanic-classifier](titanic-classifier.ipynb)
