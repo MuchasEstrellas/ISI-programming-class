@@ -10,7 +10,7 @@
   * Predict the output using test data
   * Submit your data to [Kaggle](https://www.kaggle.com/c/titanic/leaderboard)
   
-  ![Screenshot](./image/screenshot.png)
+  ![Screenshot](./images/screenshot.png)
 
 ## Resources
   * [titanic-classifier](titanic-classifier.ipynb)
