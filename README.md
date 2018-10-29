@@ -29,7 +29,7 @@
 | 4 | 01.10, 02.10 | *Introduction to data science* | [Basic Python](https://speakerdeck.com/codethief/isi-programming-course-04-python) | [Python](https://www.codecademy.com/learn/learn-python) | [Link](https://github.com/thejungwon/ISI-programming-class/tree/master/assignments/week-04) |
 | 5 | 15.10, 16.10 | *Women in Tech* | [Numpy, Matplotlib, Pandas](https://speakerdeck.com/codethief/isi-programming-course-05-python-data-science-libraries) | [NumPy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy) | [Link](https://github.com/thejungwon/ISI-programming-class/tree/master/assignments/week-05) |
 | 6 | 22.10, 23.10 | *Introduction to deep learning* | [Scikit learn](https://speakerdeck.com/codethief/isi-programming-course-06-scikit-learn-be4e19a9-7b54-4f5b-b02b-dcabd212be77) | TBA | [Link](https://github.com/thejungwon/ISI-programming-class/tree/master/assignments/week-06) |
-| 7 | 29.10, 30.10 | *How to improve programming skills* | Basic Tensorflow, Pytorch | TBA | TBA |
+| 7 | 29.10, 30.10 | *How to improve programming skills* | [Basic Tensorflow](https://speakerdeck.com/codethief/isi-programming-course-07-tensorflow) | TBA | TBA |
 | 8 | TBA | TBA | AWS Basic, Python Flask | TBA | TBA |
 | 9 | TBA | TBA | Python Flask, Database(MySql) | TBA | TBA |
 | 10 | TBA | TBA | MySQL Advanced Query | TBA | TBA |
